@@ -1,0 +1,15 @@
+{
+  "name": "openlearn-univesp",
+  "version": "0.0.1",
+  "description": "A monorepo containing all projects carried out at Univesp",
+  "author": {
+    "name": "eduardoteles17",
+    "email": "edu.teles@pm.me",
+    "url": "https://github.com/eduardoteles17"
+  },
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: Do you really need tests?\" && exit 1"
+  }
+}
