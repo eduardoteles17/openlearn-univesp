@@ -10,6 +10,11 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: Do you really need tests?\" && exit 1"
+    "prepare": "pnpm husky install"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
+    "husky": "^8.0.1"
   }
 }
