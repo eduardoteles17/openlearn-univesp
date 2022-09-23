@@ -1,0 +1,14 @@
+{
+  "name": "@univesp/tsconfig",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "base.json",
+    "library-react.json",
+    "library.json",
+    "nest.json",
+    "next.json"
+  ]
+}

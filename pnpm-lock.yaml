@@ -8,6 +8,7 @@ importers:
       '@commitlint/config-conventional': ^17.1.0
       '@typescript-eslint/eslint-plugin': ^5.38.0
       '@typescript-eslint/parser': ^5.38.0
+      '@univesp/tsconfig': workspace:*
       eslint: ^8.23.1
       eslint-config-airbnb: ^19.0.4
       eslint-config-cod3rocket: ^1.0.3
@@ -27,6 +28,7 @@ importers:
       '@commitlint/config-conventional': 17.1.0
       '@typescript-eslint/eslint-plugin': 5.38.0_wsb62dxj2oqwgas4kadjymcmry
       '@typescript-eslint/parser': 5.38.0_irgkl5vooow2ydyo6aokmferha
+      '@univesp/tsconfig': link:packages/tsconfig
       eslint: 8.23.1
       eslint-config-airbnb: 19.0.4_4zstfqq5uopk5xuvotejlnl36y
       eslint-config-cod3rocket: 1.0.3_t5um2g25bhs4jsjglncg7wmkyi
@@ -41,6 +43,9 @@ importers:
       lint-staged: 13.0.3
       prettier: 2.7.1
       typescript: 4.8.3
+
+  packages/tsconfig:
+    specifiers: {}
 
 packages:
 

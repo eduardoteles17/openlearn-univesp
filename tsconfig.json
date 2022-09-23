@@ -1,0 +1,3 @@
+{
+  "extends": "@univesp/tsconfig/base.json"
+}
